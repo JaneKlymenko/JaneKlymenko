@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Yana, and I'm a Frontend Developer from Ukraine 🇺🇦
+My name is Yana, and I'm a Frontend Developer from Ukraine  ![Ukraine Flag](https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg)
 
 
 <!--
