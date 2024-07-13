@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Yana, and I'm a Frontend Developer from Ukraine 🇺🇦
+
+
 <!--
 **JaneKlymenko/JaneKlymenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
