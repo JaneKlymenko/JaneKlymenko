@@ -63,7 +63,15 @@ My name is Yana, and I'm a Frontend Developer from Ukraine <img src="https://upl
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneKlymenko&hide_border=true&layout=compact" align="center" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JaneKlymenko&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<table>
+<tr>
+<td valign="top" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneKlymenko&hide_border=true&layout=compact" align="center" />
+</td>
+<td valign="top" width="54%">
+<img src="https://github-readme-stats.vercel.app/api?username=JaneKlymenko&show_icons=true&count_private=true&hide_border=true" align="center" />
+</td>
+</tr>
+</table>
 
 <br/>
