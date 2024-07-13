@@ -1,19 +1,14 @@
 ## Hi there 👋
 
-My name is Yana, and I'm a Frontend Developer from Ukraine  ![Ukraine Flag](https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg)
+My name is Yana, and I'm a Frontend Developer from Ukraine <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="20" alt="Ukraine Flag" />
 
+### About Me
 
-<!--
-**JaneKlymenko/JaneKlymenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 I specialize in building interactive and responsive web applications.
+- 💡 I'm passionate about JavaScript, Vue.js, and modern web technologies.
+- 📚 Constantly learning and improving my skills in frontend development.
+- 🛠️ Experienced with tools like Visual Studio Code, Git, and various frontend frameworks.
+- 💬 I enjoy collaborating with other developers and sharing knowledge.
+- 🌱 Currently exploring advanced CSS techniques and performance optimization.
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Get in Touch
