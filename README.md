@@ -4,6 +4,8 @@ My name is Yana, and I'm a Frontend Developer from Ukraine <img src="https://upl
 
 ### About Me
 
+- 🎓 Graduated with a degree in Computer Science, specializing in Frontend Development.
+- 🌟 Over 2 years of professional experience as a Frontend Developer.
 - 🌐 I specialize in building interactive and responsive web applications.
 - 💡 I'm passionate about JavaScript, Vue.js, and modern web technologies.
 - 📚 Constantly learning and improving my skills in frontend development.
